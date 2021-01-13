@@ -1,4 +1,4 @@
-# Contributing to TypescriptReactBoilerplate
+# Contributing to Pick Up Games
 
 Want to contribute? Great! Here's a quick guide to get started.
 
@@ -40,7 +40,7 @@ By contributing, you agree that your contributions will be licensed under its MI
 
 ## Reporting Issues
 
-If you have an issue, please [open a new issue](https://github.com/ctaylo21/TypescriptReactBoilerplate/issues).
+If you have an issue, please [open a new issue](https://github.com/ctaylo21/Pick Up Games/issues).
 
 **Great Bug Reports** tend to have:
 
