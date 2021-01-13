@@ -1,0 +1,15 @@
+# Depdency directory
+node_modules
+
+# Webpack compiled bundle directory
+dist
+
+# Tern files
+.tern-port
+.tern-project
+
+# coverage folder
+coverage
+
+# Coveralls
+.coveralls.yml
